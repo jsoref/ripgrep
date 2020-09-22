@@ -1,0 +1,6 @@
+^\.github/actions/spelling/
+^tests/data/
+^crates/
+\.lock$
+/runs/.\.csv$
+ignore$
